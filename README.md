@@ -1,6 +1,6 @@
-# worldtime
+# World Time App
 
-A new Flutter application.
+A Flutter World Time App.
 
 ## Getting Started
 
